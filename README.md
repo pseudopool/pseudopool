@@ -2,9 +2,7 @@
 
 
 ### 🔗 Front-end Developer
-- 카피라이터 출신 프론트엔드 개발자
-- 고맥락 개발(High-context development)이 좋아요
-- CodeNinjas라는 이름의 프론트엔드 스터디 리드 중
+- 차근차근 닌자 개발자
 
 ### 🔗 Tech Stack
 <p>
