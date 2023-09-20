@@ -2,4 +2,4 @@
 
 ### 🥷 Frontend Developer Based In Seoul.
 
-[🍪 Eat some cookies.](https://taiscookie.vercel.app/)
+[🍪 Take a bite.](https://taiscookie.vercel.app/)
